@@ -7,4 +7,4 @@
 This is the code repo of Quiz App. There I used:
 
 - [Next Js](https://nextjs.org/)
-- [Axioz](https://axios-http.com/)
+- [Axios](https://axios-http.com/)
